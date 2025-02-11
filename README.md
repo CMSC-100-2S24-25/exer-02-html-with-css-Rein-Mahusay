@@ -8,6 +8,6 @@
 
 ## Key Takeaways
 
-/ HTML is easily understable. Through sections, you can work with them as blocks.
-/ However, the CSS is what makes it complicated. It's always a trial and error situation to make the elements fit and situated to somehow achieve the desired design.
+/ HTML is easily understable. Through sections, you can work with them as blocks. <br/>
+/ However, the CSS is what makes it complicated. It's always a trial and error situation to make the elements fit and situated to somehow achieve the desired design. <br/>
 / There weren't so much time so the designs and content weren't thought of carefully.
