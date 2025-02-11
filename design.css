@@ -1,0 +1,31 @@
+.logo > div {
+  display: inline;
+  margin: auto;
+  padding: 10px;
+}
+
+.first {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.home {
+  background-color: #74e06e;
+}
+
+.name {
+  font-family: Garamond, serif;
+}
+
+.desc {
+  font-family: Arial, sans-serif;
+}
+
+info {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
